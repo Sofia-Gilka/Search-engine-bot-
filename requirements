@@ -1,0 +1,8 @@
+faiss-cpu
+flask
+sentence-transformers
+numpy==1.26
+pandas
+requests
+parermill
+pickle-mixin
